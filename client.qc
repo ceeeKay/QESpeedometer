@@ -932,6 +932,8 @@ void() PlayerPreThink =
 			"Have fun!");
 	}
 
+	QESpeedometerRun();
+
 	makevectors (self.v_angle);		// is this still used
 
 	CheckRules ();

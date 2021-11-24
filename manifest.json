@@ -1,13 +1,13 @@
 {
 	// Data required for Add-ons menu
 	"manifestVersion": 1,
-	"name": "NAME HERE",
-	"version": "VERSION HERE",
-	"author": "AUTHOR HERE",
-	"date": "DATE HERE",
-	"description": "Description here with newlines\nto place text on multiple lines",
+	"name": "QESpeedometer",
+	"version": "0.1",
+	"author": "CK",
+	"date": "24/11/2021",
+	"description": "See how fast you're going! Also keeps a record and prints\na message when someone breaks it.",
 	"gamedir": "id1",
-	"download": "name_version.zip",
+	"download": "qespeedometer_v0.1.zip",
 	"screenshots": [],
 	"pak": "pak0.pak"
 }
