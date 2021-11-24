@@ -23,4 +23,7 @@ that great at data structures and I'm not that great at math.
 
 Written by CK
 
-Thanks for teamred for help with the vector math!
+Thanks to:
+
+* teamred for help with the vector math
+* Stedanko for playtesting and feedback
