@@ -6,6 +6,8 @@ See how fast you're going! Also keeps a record and prints\na message when someon
 
 Install like any other QE mod!
 
+Simple method is to drop it into `%userprofile%\Saved Games\Nightdive Studios\Quake\id1`
+
 ## Configuration
 
 Nothing to configure. If you want to change the max windows, edit the code.
